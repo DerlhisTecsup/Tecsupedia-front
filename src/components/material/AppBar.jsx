@@ -13,10 +13,8 @@ export default function TecsupediaHeader() {
         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
           Tecsupedia
         </Typography>
-        <Button color="inherit">Áreas</Button>
-        <Button color="inherit">Perfil</Button>
-        <Button color="inherit">Redactar</Button>
-        <Button color="inherit">Tecsupedia</Button>
+        <Button color="inherit">Iniciar Sesion</Button>
+        <Button color="inherit">Registrarse</Button>
         <IconButton color="inherit">
           <LanguageIcon />
         </IconButton>
